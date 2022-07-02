@@ -1,3 +1,1 @@
-<?php include_once("./AminPanel")?>
-<?php include_once("./ApiCreation")?>
-<?php include_once("./WebProject")?>
+<?php include_once("./index.html")?>
